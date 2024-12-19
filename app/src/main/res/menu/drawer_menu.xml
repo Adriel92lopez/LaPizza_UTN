@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_principal"
+            android:title="Principal" />
+
+        <item
+            android:id="@+id/nav_listado_productos"
+            android:title="Lista de productos" />
+
+        <item
+            android:id="@+id/nav_cerrar_sesion"
+            android:title="Cerrar sesión"/>
+    </group>
+</menu>
